@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* Reset básico */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Exemplo de classe para estilizar elementos */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Exemplo de estilo para texto */
+h1 {
+    font-size: 2rem;
+    color: #444;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+/* Exemplo de uso de largura fixa */
+.fixed-width {
+    width: 228px;
+    height: auto;
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
